@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/dornier-organization/my-project/_apis/build/status%2Fdornier40.pipelines-java?branchName=main)](https://dev.azure.com/dornier-organization/my-project/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
